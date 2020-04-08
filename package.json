@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/krazeelogic/long-pipe/issues"
   },
-  "homepage": "https://github.com/krazeelogic/long-pipe#readme"
+  "homepage": "https://github.com/krazeelogic/long-pipe#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
